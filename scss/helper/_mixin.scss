@@ -1,0 +1,3 @@
+@mixin border-Style($size, $color) {
+    border: $size solid $color;
+}
